@@ -236,7 +236,7 @@ $trans = json_decode($traduction, true);
     <!-- Cursus END-->
 
     <!-- Portfolio START-->
-    <section class="container portfolio" id="portfolio" >
+    <section class="container portfolio" id="portfolio" style="min-height: 100vh;">
       <div class="title">
         <h2 class="titleBehind"><?php echo $trans['portfolio_h2'] ?></h2>
         <h2><?php echo $trans['portfolio_h2-2'] ?></h2>
