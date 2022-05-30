@@ -1,0 +1,80 @@
+{
+  "head_title": "Alexandre Ferreira",
+
+  "menu_a": "Accueil",
+  "apropos_a": "A Propos de Moi",
+  "parcours_a": "Parcours",
+  "portfolio_a": "Mon Portfolio",
+  "contact_a": "Contact",
+
+  "lang_label": "Langues",
+  "submit_button": "Valider",
+
+  "cv_a": "Téléchargez mon CV",
+
+  "apropos_h2": "A propos",
+  "apropos_h2_2": "A propos de moi",
+
+  "prensentation_p": "Jeune diplômé universitaire de technologie à Angoulême, je recherche un emploi afin de vivre de ma passion. Je me suis spécialisé dans le développement web où j'ai pu apprendre à utiliser des Framework comme Symfony, Sass et dans le développement mobile avec Ionic et Angular",
+
+  "prensentation_li-1": "Nom",
+  "prensentation_li-2": "Diplome",
+  "prensentation_li-3": "Télephone",
+  "prensentation_li-4": "Adresse",
+
+  "prensentation_li-5": "Date de Naissance",
+  "prensentation_span-5": "8 janvier 2002",
+  "prensentation_li-6": "Experience",
+  "prensentation_span-6": "-1 an",
+  "prensentation_span-7": "Disponible",
+  "prensentation_a": "Embauchez moi",
+
+  "parcours_h2": "Parcours",
+  "parcours_h2-2": "Mon Parcours",
+
+  "parcours_h3-1": "Formations",
+  "parcours_item-1": "D.U.T Métiers du Multimédia et de l'Internet",
+  "parcours_item-2": "BAC STI2D Science de l'information et du numérique",
+  "parcours_item-3": "Brevet des collèges",
+
+  "parcours_h3-2": "Experiences",
+  "parcours_item-4":"Communauté de Communes La Rochefoucauld - Porte du Périgord",
+  "parcours_timestamp-4": "Avril - Juin 2022",
+  "parcours_timestamp-4-2": "Stage 10 semaines",
+  "parcours_item-5":"Agence de communication FreelanceWeb16",
+  "parcours_timestamp-5": "Février 2021",
+  "parcours_timestamp-5-2": "Stage 2 semaines",
+
+  "portfolio_h2": "Portfolio",
+  "portfolio_h2-2": "Mes réalisations",
+
+  "portfolio_h3-1": "Projet web",
+  "portfolio_h3-1_p": "Réalisation web avec npm et parcel",
+
+  "portfolio_h3-2": "Projet web",
+  "portfolio_h3-2_p": "Réalisation d'un jeu du simon entièrement en Javascript vanilla",
+
+  "portfolio_h3-3": "Projet de soutien",
+  "portfolio_h3-3_p": "Réalisation d'un site internet et d'une vidéo pour les habitants de La Palma",
+
+  "portfolio_h3-4": "Projet Espagnol",
+  "portfolio_h3-4_p": "Réalisation à l'aide de Photoshop d'une affiche en lien avec une citation de Mario Benedetti",
+
+  "portfolios_a": "Voir",
+
+  "contact_h2": "Contact",
+  "contact_h2-2": "Prendre contact avec moi",
+
+  "contact_button": "Envoyer",
+
+  "nom_placeholder": "Votre nom",
+  "email_placeholder": "Votre email",
+  "sujet_placeholder": "A quel sujet ?",
+  "message_placeholder": "Votre message",
+
+  "footer_h3-1": "Contact",
+  "footer_h3-2": "Réseaux",
+  "footer_h3-3": "Légal",
+
+  "mentionsLegales_a": "Mentions Légales"
+}

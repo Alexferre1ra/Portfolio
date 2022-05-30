@@ -1,0 +1,47 @@
+{
+  "head_title": "Alexandre Ferreira",
+
+  "menu_a": "Recepção",
+  "apropos_a": "A propósito",
+  "parcours_a": "Percurso",
+  "portfolio_a": "Portefólio",
+  "contact_a": "Contacto",
+
+  "lang_label": "Idiomas",
+  "submit_button": "Enviar",
+
+  "cv_a":"Descarregar o CV",
+
+  "apropos_h2": "A PROPÓSITO",
+  "apropos_h2_2": "AO MEU PROPÓSITO",
+
+  "prensentation_p": ", tenho 20 anos e sou estudante no IUT em Angoulême. Estou a estudar technologias Multimedia e Internet. Especializei-me no web development onde pude aprimorar minhas competencias para produzir sites mas também descobrir Frameworks como Symfony, Sass, Node.js, Git, Pug. Também descobri o mobile development",
+
+  "parcours_h2": "PERCURSO",
+
+  "portfolio_h2": "PORTEFÓLIO",
+
+  "cartes_a": "Ver",
+  "cartes_Web_h2": "Web",
+  "cartes_Graphisme_h2": "Grafismo",
+  
+  "carte-1_p": "Realização gráfica no primeiro ano (MMi). Auto-retrato com o tema da Asia medieval. Adobe Illustrator.",
+
+  "carte-2_p": "Realização de um livro de Ouro com um vídeo e um site para os habitantes de La Palma.",
+
+  "carte-3_p": "Projeto supervisionado no primeiro ano (MMi). Site  Wordpress para uma associção fictiva de jardins communs!",
+
+  "carte-4_p": "Realização gráfica no segundo ano (MMi). Convite fictício para uma festa em Cognac com o meu apelido!",
+
+  "carte-5_p": "Projeto supervisionado no segundo ano (MMi). Remodelação do site de uma associação, com Wordpress!",
+
+  "contact_h2": "Entre em contato comigo, não se vai arrepender!",
+
+  "nom_placeholder": "Nome",
+  "email_placeholder": "Mail",
+  "sujet_placeholder": "Assunto do mail",
+  "message_placeholder": "Escreva aqui a sua messagem",
+  "contact_button": "Enviar",
+
+  "mentionsLegales_a": "Condições gerais"
+}

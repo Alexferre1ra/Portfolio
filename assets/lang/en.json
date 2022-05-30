@@ -1,0 +1,48 @@
+{
+  "head_title": " Alexandre Ferreira",
+
+  "menu_a": "Hall",
+  "apropos_a": "About",
+  "portfolio_a": "Portfolio",
+  "parcours_a": "Career",
+  "contact_a": "Contact",
+
+  "lang_label": "Langages",
+  "submit_button": "Submit",
+
+  "cv_a": "Download CV",
+
+  "apropos_h2": "ABOUT",
+  "apropos_h2_2": "ABOUT ME",
+
+  "prensentation_p-2": ", I'm 20 years old and I'm a student at the UIT of Angoulême. I learn there the Multimedia and Internet Technologies. I specialized in web development where I was able to learn more notions in Frameworks like Symfony, Sass, Node.js, Git, Pug and in mobile development",
+
+  "parcours_h2": "RESUME",
+
+  "portfolio_h2": "PORTFOLIO",
+
+  "cartes_a": "See",
+  "cartes_Web_h2": "Web",
+  "cartes_Graphisme_h2": "Grafics",
+
+  "carte-1_p": "Computer graphics in 1st year of MIT Self-portrait in the theme of medieval Asia. Realization on Adobe Illustrator.",
+
+  "carte-2_p": "Creation of a guestbook with a video and a website for people living in La Palma.",
+
+  "carte-3_p": "Tutored project in 1st year of MIT. The objective was to make a Wordpress website for a shared garden association!",
+
+  "carte-4_p": "MIT's 2nd year project. Invitation card for a festival in Cognac in our name!",
+
+  "carte-5_p": "2nd year MIT tutored project. Redesign of an association's website, with Wordpress!",
+
+  "contact_h2": "Let's get in touch, you won't regret it",
+
+  "contact_button": "Submit",
+
+  "nom_placeholder": "Name",
+  "email_placeholder": "Email",
+  "sujet_placeholder": "Mail subject",
+  "message_placeholder": "Write your message here",
+
+  "mentionsLegales_a": "General Conditions of Use"
+}
