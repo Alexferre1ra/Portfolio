@@ -315,8 +315,7 @@ $trans = json_decode($traduction, true);
               </figcaption>
             </div>
           </div>
-        </div>
-        <div class="item" data-id="Web">
+          <div class="item" data-id="Web">
             <div class="inner">
               <img src="assets/img/portfolio/Mastermind.webp" alt="portfolio" />
               <figcaption>
@@ -326,6 +325,7 @@ $trans = json_decode($traduction, true);
               </figcaption>
             </div>
           </div>
+        </div>
         </div>
       </div>
     </section>
