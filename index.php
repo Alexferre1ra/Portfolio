@@ -260,7 +260,7 @@ $trans = json_decode($traduction, true);
               <figcaption>
                 <h3><?php echo $trans['portfolio_h3-1'] ?></h3>
                 <p><?php echo $trans['portfolio_h3-1_p'] ?></p>
-                <a href="https://www.lescarmes.org"> <?php echo $trans['portfolios_a'] ?> </a>
+                <a href="https://projetnintendoswitch.netlify.app"> <?php echo $trans['portfolios_a'] ?> </a>
               </figcaption>
             </div>
           </div>
@@ -271,7 +271,7 @@ $trans = json_decode($traduction, true);
               <figcaption>
                 <h3><?php echo $trans['portfolio_h3-2'] ?></h3>
                 <p><?php echo $trans['portfolio_h3-2_p'] ?></p>
-                <a href="https://www.lescarmes.org"> <?php echo $trans['portfolios_a'] ?> </a>
+                <a href="https://ferreira-memorygame.netlify.app"> <?php echo $trans['portfolios_a'] ?> </a>
               </figcaption>
             </div>
           </div>
@@ -281,7 +281,7 @@ $trans = json_decode($traduction, true);
               <figcaption>
                 <h3><?php echo $trans['portfolio_h3-3'] ?></h3>
                 <p><?php echo $trans['portfolio_h3-3_p'] ?></p>
-                <a href="https://www.lescarmes.org"> <?php echo $trans['portfolios_a'] ?> </a>
+                <a href="https://ferreira-alexandre.alwaysdata.net/LivroDeOro/"> <?php echo $trans['portfolios_a'] ?> </a>
               </figcaption>
             </div>
           </div>
@@ -291,7 +291,7 @@ $trans = json_decode($traduction, true);
               <figcaption>
                 <h3><?php echo $trans['portfolio_h3-4'] ?></h3>
                 <p><?php echo $trans['portfolio_h3-4_p'] ?></p>
-                <a href="https://www.lescarmes.org"><?php echo $trans['portfolios_a'] ?></a>
+                <a href="assets/img/portfolio/Affiche-benedetti.webp"><?php echo $trans['portfolios_a'] ?></a>
               </figcaption>
             </div>
           </div>
@@ -299,9 +299,9 @@ $trans = json_decode($traduction, true);
             <div class="inner">
               <img src="assets/img/portfolio/vectorisation_Samourai.webp" alt="portfolio" />
               <figcaption>
-                <h3><?php echo $trans['head_title'] ?>Projet Illustrator </h3>
-                <p><?php echo $trans['head_title'] ?>Réalisation d'un autoportrait dans le thème Asie médievale</p>
-                <a href="https://www.lescarmes.org"> Voir </a>
+                <h3><?php echo $trans['portfolio_h3-5'] ?> </h3>
+                <p><?php echo $trans['portfolio_h3-5_p'] ?></p>
+                <a href="assets/img/portfolio/vectorisation_Samourai.webp"> Voir </a>
               </figcaption>
             </div>
           </div>
@@ -309,9 +309,20 @@ $trans = json_decode($traduction, true);
             <div class="inner">
               <img src="assets/img/portfolio/lesCarmes.webp" alt="portfolio" />
               <figcaption>
-                <h3><?php echo $trans['head_title'] ?>Stage développement web</h3>
-                <p><?php echo $trans['head_title'] ?>Réalisation d'un site internet pour une salle de spectacle avec WordPress</p>
+                <h3><?php echo $trans['portfolio_h3-6'] ?></h3>
+                <p><?php echo $trans['portfolio_h3-6_p'] ?></p>
                 <a href="https://www.lescarmes.org"> Voir </a>
+              </figcaption>
+            </div>
+          </div>
+        </div>
+        <div class="item" data-id="Web">
+            <div class="inner">
+              <img src="assets/img/portfolio/Mastermind.webp" alt="portfolio" />
+              <figcaption>
+                <h3><?php echo $trans['portfolio_h3-7'] ?></h3>
+                <p><?php echo $trans['portfolio_h3-7_p'] ?></p>
+                <a href="https://ferreira-mastermind.netlify.app/"> Voir </a>
               </figcaption>
             </div>
           </div>
