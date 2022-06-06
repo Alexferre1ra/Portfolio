@@ -46,7 +46,7 @@
   "parcours_timestamp-5-2": "Stagio 2 semanas",
 
   "portfolio_h2": "Portfolio",
-  "portfolio_h2-2": "Minhas realisações",
+  "portfolio_h2-2": "Minhas realizações",
 
   "portfolio_h3-1": "Projeto web",
   "portfolio_h3-1_p": "Realização web com npm e parcel",
@@ -79,6 +79,10 @@
   "sujet_placeholder": "Assunto do mail",
   "message_placeholder": "Escreva aqui a sua messagem",
   "contact_button": "Enviar",
+
+  "footer_h3-1": "Contactos",
+  "footer_h3-2": "Redes",
+  "footer_h3-3": "Legal",
 
   "mentionsLegales_a": "Condições gerais"
 }

@@ -113,7 +113,7 @@ $trans = json_decode($traduction, true);
     <!-- Header Start -->
     <section class="container header" id="accueil" style="min-height: 100vh;">
       <div class="column photoProfile">
-        <img src="assets/img/Alex_F.png" alt="" class="img" />
+        <img src="assets/img/Alex_F.webp" alt="Picture of Alexandre" class="img" loading="lazy"/>
       </div>
       <div class="column presentation">
         <h1>Alexandre Ferreira</h1>
@@ -256,72 +256,72 @@ $trans = json_decode($traduction, true);
         <div class="portfolio-gallery">
           <div class="item" data-id="Web">
             <div class="inner">
-              <img src="assets/img/portfolio/NintendoSwitch.webp" alt="portfolio" />
+              <img src="assets/img/portfolio/NintendoSwitch.webp" alt="portfolio" loading="lazy" />
               <figcaption>
                 <h3><?php echo $trans['portfolio_h3-1'] ?></h3>
                 <p><?php echo $trans['portfolio_h3-1_p'] ?></p>
-                <a href="https://projetnintendoswitch.netlify.app"> <?php echo $trans['portfolios_a'] ?> </a>
+                <a href="https://projetnintendoswitch.netlify.app" target="_blank"> <?php echo $trans['portfolios_a'] ?> </a>
               </figcaption>
             </div>
           </div>
 
           <div class="item" data-id="Web">
             <div class="inner">
-              <img src="assets/img/portfolio/MemoryGame.webp" alt="portfolio" />
+              <img src="assets/img/portfolio/MemoryGame.webp" alt="portfolio" loading="lazy" />
               <figcaption>
                 <h3><?php echo $trans['portfolio_h3-2'] ?></h3>
                 <p><?php echo $trans['portfolio_h3-2_p'] ?></p>
-                <a href="https://ferreira-memorygame.netlify.app"> <?php echo $trans['portfolios_a'] ?> </a>
+                <a href="https://ferreira-memorygame.netlify.app" target="_blank"> <?php echo $trans['portfolios_a'] ?> </a>
               </figcaption>
             </div>
           </div>
           <div class="item" data-id="Web">
             <div class="inner">
-              <img src="assets/img/portfolio/site_livre_dor_Palma.webp" alt="portfolio" />
+              <img src="assets/img/portfolio/site_livre_dor_Palma.webp" alt="portfolio" loading="lazy" />
               <figcaption>
                 <h3><?php echo $trans['portfolio_h3-3'] ?></h3>
                 <p><?php echo $trans['portfolio_h3-3_p'] ?></p>
-                <a href="https://ferreira-alexandre.alwaysdata.net/LivroDeOro/"> <?php echo $trans['portfolios_a'] ?> </a>
+                <a href="https://ferreira-alexandre.alwaysdata.net/LivroDeOro/" target="_blank"> <?php echo $trans['portfolios_a'] ?> </a>
               </figcaption>
             </div>
           </div>
           <div class="item" data-id="Graphics">
             <div class="inner">
-              <img src="assets/img/portfolio/Affiche-benedetti.webp" alt="portfolio" />
+              <img src="assets/img/portfolio/Affiche-benedetti.webp" alt="portfolio" loading="lazy" />
               <figcaption>
                 <h3><?php echo $trans['portfolio_h3-4'] ?></h3>
                 <p><?php echo $trans['portfolio_h3-4_p'] ?></p>
-                <a href="assets/img/portfolio/Affiche-benedetti.webp"><?php echo $trans['portfolios_a'] ?></a>
+                <a href="assets/img/portfolio/Affiche-benedetti.webp" target="_blank"><?php echo $trans['portfolios_a'] ?></a>
               </figcaption>
             </div>
           </div>
           <div class="item" data-id="Graphics">
             <div class="inner">
-              <img src="assets/img/portfolio/vectorisation_Samourai.webp" alt="portfolio" />
+              <img src="assets/img/portfolio/vectorisation_Samourai.webp" alt="portfolio" loading="lazy" />
               <figcaption>
                 <h3><?php echo $trans['portfolio_h3-5'] ?> </h3>
                 <p><?php echo $trans['portfolio_h3-5_p'] ?></p>
-                <a href="assets/img/portfolio/vectorisation_Samourai.webp"> Voir </a>
+                <a href="assets/img/portfolio/vectorisation_Samourai.webp" target="_blank"><?php echo $trans['portfolios_a'] ?></a>
               </figcaption>
             </div>
           </div>
           <div class="item" data-id="Web">
             <div class="inner">
-              <img src="assets/img/portfolio/lesCarmes.webp" alt="portfolio" />
+              <img src="assets/img/portfolio/lesCarmes.webp" alt="portfolio" loading="lazy" />
               <figcaption>
                 <h3><?php echo $trans['portfolio_h3-6'] ?></h3>
                 <p><?php echo $trans['portfolio_h3-6_p'] ?></p>
-                <a href="https://www.lescarmes.org"> Voir </a>
+                <a href="https://www.lescarmes.org" target="_blank"><?php echo $trans['portfolios_a'] ?></a>
               </figcaption>
             </div>
           </div>
           <div class="item" data-id="Web">
             <div class="inner">
-              <img src="assets/img/portfolio/Mastermind.webp" alt="portfolio" />
+              <img src="assets/img/portfolio/Mastermind.webp" alt="portfolio" loading="lazy" />
               <figcaption>
                 <h3><?php echo $trans['portfolio_h3-7'] ?></h3>
                 <p><?php echo $trans['portfolio_h3-7_p'] ?></p>
-                <a href="https://ferreira-mastermind.netlify.app/"> Voir </a>
+                <a href="https://ferreira-mastermind.netlify.app/" target="_blank"><?php echo $trans['portfolios_a'] ?></a>
               </figcaption>
             </div>
           </div>
@@ -369,13 +369,13 @@ $trans = json_decode($traduction, true);
 
             <div>
               <div>
-                <span><img src="assets/img/help-circle.svg" alt="subject"></span>
+                <span><img src="assets/img/help-circle.svg" alt="subject" loading="lazy"></span>
               </div>
               <input type="text" name="sujet" placeholder="<?php echo $trans['sujet_placeholder'] ?>" required />
             </div>
             <div>
               <div>
-                <span><img src="assets/img/message-circle.svg" alt="Message square"></span>
+                <span><img src="assets/img/message-circle.svg" loading="lazy" alt="Message square"></span>
               </div>
               <textarea name="message" aria-label="With textarea" placeholder="<?php echo $trans['message_placeholder'] ?>" required></textarea>
             </div>
@@ -394,7 +394,7 @@ $trans = json_decode($traduction, true);
         <address>
           Angoulême, France
           <br>
-          <a class="footer__btn" href="mailto:alexandreferreira540@gmail.com"><img src="assets/img/mail.svg" alt="Email"></a>
+          <a class="footer__btn" href="mailto:alexandreferreira540@gmail.com"><img src="assets/img/mail.svg" loading="lazy" alt="Email"></a>
           <a class="footer__btn" href="tel:+33 7 68 69 96 66"><img src="assets/img/phone.svg" alt="Phone"></a>
         </address>
       </div>
@@ -405,15 +405,15 @@ $trans = json_decode($traduction, true);
 
           <ul class="nav__ul">
             <li>
-              <a href="https://github.com/Alexferre1ra"> <img src="assets/img/github.svg" alt="GitHub"></a>
+              <a href="https://github.com/Alexferre1ra"> <img src="assets/img/github.svg" loading="lazy" alt="GitHub"></a>
             </li>
 
             <li>
-              <a href="https://www.linkedin.com/in/alexandre-ferreira-a540871a8/"><img src="assets/img/linkedin.svg" alt="LinkedIn"></a>
+              <a href="https://www.linkedin.com/in/alexandre-ferreira-a540871a8/"><img src="assets/img/linkedin.svg" loading="lazy" alt="LinkedIn"></a>
             </li>
 
             <li>
-              <a href="https://www.instagram.com/alexandreferreira540/"><img src="assets/img/instagram.svg" alt="Intagram"></a>
+              <a href="https://www.instagram.com/alexandreferreira540/"><img src="assets/img/instagram.svg" loading="lazy" alt="Intagram"></a>
             </li>
           </ul>
         </li>

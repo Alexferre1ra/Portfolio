@@ -15,7 +15,7 @@
   "apropos_h2": "About",
   "apropos_h2_2": "About me",
 
-  "prensentation_p-2": "Young university graduate in technology in Angouleme, France, I'm looking for a job and thus start working and living from my passion. I specialised in the web development where I was able to use tools such as Symfony, Sass, Ionic, Angular, node, npm, WordPress, parcel, git ...",
+  "prensentation_p": "Young university graduate in technology in Angouleme, France, I'm looking for a job and thus start working and living from my passion. I specialised in the web development where I was able to use tools such as Symfony, Sass, Ionic, Angular, node, npm, WordPress, parcel, git ...",
 
   "prensentation_li-1": "Name",
   "prensentation_li-2": "Degree",
@@ -77,6 +77,10 @@
   "email_placeholder": "Email",
   "sujet_placeholder": "Mail subject",
   "message_placeholder": "Write your message here",
+
+  "footer_h3-1": "Contacts",
+  "footer_h3-2": "Socials",
+  "footer_h3-3": "Legal",
 
   "mentionsLegales_a": "General Conditions of Use"
 }
