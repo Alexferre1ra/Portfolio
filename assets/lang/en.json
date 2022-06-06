@@ -3,8 +3,8 @@
 
   "menu_a": "Hall",
   "apropos_a": "About",
-  "portfolio_a": "Portfolio",
   "parcours_a": "Career",
+  "portfolio_a": "Portfolio",
   "contact_a": "Contact",
 
   "lang_label": "Langages",
@@ -12,30 +12,64 @@
 
   "cv_a": "Download CV",
 
-  "apropos_h2": "ABOUT",
-  "apropos_h2_2": "ABOUT ME",
+  "apropos_h2": "About",
+  "apropos_h2_2": "About me",
 
-  "prensentation_p-2": ", I'm 20 years old and I'm a student at the UIT of Angoulême. I learn there the Multimedia and Internet Technologies. I specialized in web development where I was able to learn more notions in Frameworks like Symfony, Sass, Node.js, Git, Pug and in mobile development",
+  "prensentation_p-2": "Young university graduate in technology in Angouleme, France, I'm looking for a job and thus start working and living from my passion. I specialised in the web development where I was able to use tools such as Symfony, Sass, Ionic, Angular, node, npm, WordPress, parcel, git ...",
 
-  "parcours_h2": "RESUME",
+  "prensentation_li-1": "Name",
+  "prensentation_li-2": "Degree",
+  "prensentation_li-3": "Phone",
+  "prensentation_li-4": "address",
 
-  "portfolio_h2": "PORTFOLIO",
+  "prensentation_li-5": "Birth",
+  "prensentation_span-5": "January 8 of 2002",
+  "prensentation_li-6": "Experience",
+  "prensentation_span-6": "-1 year",
+  "prensentation_span-7": "Available",
+  "prensentation_a": "Hire-me",
 
-  "cartes_a": "See",
-  "cartes_Web_h2": "Web",
-  "cartes_Graphisme_h2": "Grafics",
+  "parcours_h2": "Resume",
+  "parcours_h2-2": "My Resume",
 
-  "carte-1_p": "Computer graphics in 1st year of MIT Self-portrait in the theme of medieval Asia. Realization on Adobe Illustrator.",
+  "parcours_h3-1": "Courses",
+  "parcours_item-1": "D.U.T Multimedia and Internet Technologies",
+  "parcours_item-2": "BTEC National Diploma STI2D Information and Digital System",
+  "parcours_item-3": "CGCSE",
 
-  "carte-2_p": "Creation of a guestbook with a video and a website for people living in La Palma.",
+  "parcours_h3-2": "Experience",
+  "parcours_item-4":"Community of commune La Rochefoucauld - Porte du Périgord",
+  "parcours_timestamp-4": "April - June 2022",
+  "parcours_timestamp-4-2": "Internship 10 weeks",
+  "parcours_item-5":"Communication agency FreelanceWeb16",
+  "parcours_timestamp-5": "Febraryo 2021",
+  "parcours_timestamp-5-2": "Internship 2 weeks",
 
-  "carte-3_p": "Tutored project in 1st year of MIT. The objective was to make a Wordpress website for a shared garden association!",
+  "portfolio_h2": "Portfolio",
+  "portfolio_h2-2": "My achievements",
 
-  "carte-4_p": "MIT's 2nd year project. Invitation card for a festival in Cognac in our name!",
+  "portfolio_h3-1": "Web project",
+  "portfolio_h3-1_p": "Web creation with npm and parcel",
 
-  "carte-5_p": "2nd year MIT tutored project. Redesign of an association's website, with Wordpress!",
+  "portfolio_h3-2": "Web project",
+  "portfolio_h3-2_p": "Simon game fully in Javascript",
 
-  "contact_h2": "Let's get in touch, you won't regret it",
+  "portfolio_h3-3": "Support project",
+  "portfolio_h3-3_p": "Creation of a guestbook with a video and a website for people living in La Palma",
+
+  "portfolio_h3-4": "Spanish project",
+  "portfolio_h3-4_p": "Poster created with Photoshop in relation to a Mario Benedetti quote",
+
+  "portfolio_h3-5": "Graphic project",
+  "portfolio_h3-5_p": "Realização de um auto-retrato com o tema da Asia medieval",
+
+  "portfolio_h3-6": "Stagio web development",
+  "portfolio_h3-6_p": "Self-portrait in the theme of medieval Asia",
+
+  "portfolio_h3-7": "Web project",
+  "portfolio_h3-7_p": "The game Mastermind in Javascript",
+
+  "contact_h2": "Let's get in touch",
 
   "contact_button": "Submit",
 
