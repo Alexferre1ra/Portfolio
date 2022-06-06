@@ -12,30 +12,67 @@
 
   "cv_a":"Descarregar o CV",
 
-  "apropos_h2": "A PROPÓSITO",
-  "apropos_h2_2": "AO MEU PROPÓSITO",
+  "apropos_h2": "A prop­­osito",
+  "apropos_h2_2": "Ao meu proposito",
 
-  "prensentation_p": ", tenho 20 anos e sou estudante no IUT em Angoulême. Estou a estudar technologias Multimedia e Internet. Especializei-me no web development onde pude aprimorar minhas competencias para produzir sites mas também descobrir Frameworks como Symfony, Sass, Node.js, Git, Pug. Também descobri o mobile development",
+  "prensentation_p": "Jovem diplomado universitario de technologia em Angoulême em França, estou agora buscando um emprego e assim comecar a trabalhar no objetivo de viver da minha paixão. Especializei-me no web development aonde pude usar Framework como Symfony, Sass e também mobile development com Ionic e Angular",
 
-  "parcours_h2": "PERCURSO",
+  "prensentation_li-1": "Nome",
+  "prensentation_li-2": "Diploma",
+  "prensentation_li-3": "Cellular",
+  "prensentation_li-4": "Enderço",
 
-  "portfolio_h2": "PORTEFÓLIO",
+  "prensentation_li-5": "Data de nascimento",
+  "prensentation_span-5": "Janeiro 8 de 2002",
+  "prensentation_li-6": "Experiençia",
+  "prensentation_span-6": "-1 ano",
+  "prensentation_span-7": "Disponivel",
+  "prensentation_a": "Contratar-me",
 
-  "cartes_a": "Ver",
-  "cartes_Web_h2": "Web",
-  "cartes_Graphisme_h2": "Grafismo",
-  
-  "carte-1_p": "Realização gráfica no primeiro ano (MMi). Auto-retrato com o tema da Asia medieval. Adobe Illustrator.",
+  "parcours_h2": "Percurso",
+  "parcours_h2-2": "Meu Percurso",
 
-  "carte-2_p": "Realização de um livro de Ouro com um vídeo e um site para os habitantes de La Palma.",
+  "parcours_h3-1": "Formação",
+  "parcours_item-1": "D.U.T Technologias Multimédia e Internet",
+  "parcours_item-2": "Bacharelato STI2D Sistemas de informação e digital",
+  "parcours_item-3": "Certificado escolar",
 
-  "carte-3_p": "Projeto supervisionado no primeiro ano (MMi). Site  Wordpress para uma associção fictiva de jardins communs!",
+  "parcours_h3-2": "Experiençias",
+  "parcours_item-4":"Communauté de Communes La Rochefoucauld - Porte du Périgord",
+  "parcours_timestamp-4": "Avril - Junho 2022",
+  "parcours_timestamp-4-2": "Stagio 10 semanas",
+  "parcours_item-5":"Agencia de communicação FreelanceWeb16",
+  "parcours_timestamp-5": "Fevreiro 2021",
+  "parcours_timestamp-5-2": "Stagio 2 semanas",
 
-  "carte-4_p": "Realização gráfica no segundo ano (MMi). Convite fictício para uma festa em Cognac com o meu apelido!",
+  "portfolio_h2": "Portfolio",
+  "portfolio_h2-2": "Minhas realisações",
 
-  "carte-5_p": "Projeto supervisionado no segundo ano (MMi). Remodelação do site de uma associação, com Wordpress!",
+  "portfolio_h3-1": "Projeto web",
+  "portfolio_h3-1_p": "Realização web com npm e parcel",
 
-  "contact_h2": "Entre em contato comigo, não se vai arrepender!",
+  "portfolio_h3-2": "Projeto web",
+  "portfolio_h3-2_p": "Realização do Simon game inteiramente em puro Javascript",
+
+  "portfolio_h3-3": "Projeto de apoio",
+  "portfolio_h3-3_p": "Realização de um livro de Ouro com um vídeo e um site para os habitantes de La Palma.",
+
+  "portfolio_h3-4": "Projeto Espagnol",
+  "portfolio_h3-4_p": "Realização com Photoshop de um poster sobre em conjunto com uma citação de Mario Benedetti",
+
+  "portfolio_h3-5": "Projeto Illustrator",
+  "portfolio_h3-5_p": "Realização de um auto-retrato com o tema da Asia medieval",
+
+  "portfolio_h3-6": "Stagio web development",
+  "portfolio_h3-6_p": "Realização de um site internet para um salão de espectaculos com WordPress",
+
+  "portfolio_h3-7": "Projeto Javascript",
+  "portfolio_h3-7_p": "Criação do jogo Mastermind em puro Javascript",
+
+  "portfolios_a": "Ver",
+
+  "contact_h2": "Contacto",
+  "contact_h2-2": "Entre em contato comigo",
 
   "nom_placeholder": "Nome",
   "email_placeholder": "Mail",
