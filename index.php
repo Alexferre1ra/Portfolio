@@ -40,7 +40,7 @@ $trans = json_decode($traduction, true);
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="google-site-verification" content="YtC6NNj65SSrape1jAnSCDtWb8Eyjd3Iil_2CFMitqo" />
-
+  <meta name="description" content="Portfolio d'Alexandre Ferreira Webdesigner">
   <link rel="stylesheet" href="./assets/css/style.css" />
   <link rel="stylesheet" href="./assets/css/phone.css" />
 
@@ -152,7 +152,7 @@ $trans = json_decode($traduction, true);
           <div class="column column__about">
             <ul>
               <li><?php echo $trans['prensentation_li-1'] ?> :<span> Ferreira Alexandre</span></li>
-              <li><?php echo $trans['prensentation_li-2'] ?> :<span> D.U.T</span></li>
+              <li><?php echo $trans['prensentation_li-2'] ?> :<span> D.U.T (BAC+2)</span></li>
               <li><?php echo $trans['prensentation_li-3'] ?> :<span> +33 07 68 69 96 66</span></li>
               <li><?php echo $trans['prensentation_li-4'] ?> :<span> Angoulême, France</span></li>
             </ul>
@@ -212,6 +212,13 @@ $trans = json_decode($traduction, true);
             <div class="rightbox">
               <div class="rb-container">
                 <ul class="rb">
+                <li class="rb-item" ng-repeat="itembx">
+                    <div class="timestamp">
+                    <?php echo $trans['parcours_timestamp-6'] ?><br />
+                    <?php echo $trans['parcours_timestamp-6-2'] ?></div>
+                    <div class="item-title">
+                    <?php echo $trans['parcours_item-6'] ?></div>
+                  </li>
                   <li class="rb-item" ng-repeat="itembx">
                     <div class="timestamp">
                     <?php echo $trans['parcours_timestamp-4'] ?><br />

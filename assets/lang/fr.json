@@ -1,5 +1,5 @@
 {
-  "head_title": "Alexandre Ferreira",
+  "head_title": "Portfolio Alexandre Ferreira",
 
   "menu_a": "Accueil",
   "apropos_a": "A Propos de Moi",
@@ -15,7 +15,7 @@
   "apropos_h2": "A propos",
   "apropos_h2_2": "A propos de moi",
 
-  "prensentation_p": "Jeune diplômé universitaire de technologie à Angoulême, je recherche un emploi afin de vivre de ma passion. Je me suis spécialisé dans le développement web où j'ai pu apprendre à utiliser des Framework comme Symfony, Sass et dans le développement mobile avec Ionic et Angular",
+  "prensentation_p": "Actuellement salarié en tant que Chargé de projet Web à Solocal. Je suis en charge de la maintenance des sites internet de gamme Premium. J'apporte des optimisations au niveau Design et référencement. Je recherche toujours un poste de Webdesign ou de Front-end développeur. N'hésitez pas à regarder quelques unes de mes réalisations.",
 
   "prensentation_li-1": "Nom",
   "prensentation_li-2": "Diplome",
@@ -25,7 +25,7 @@
   "prensentation_li-5": "Date de Naissance",
   "prensentation_span-5": "8 janvier 2002",
   "prensentation_li-6": "Experience",
-  "prensentation_span-6": "-1 an",
+  "prensentation_span-6": "1 an",
   "prensentation_span-7": "Disponible",
   "prensentation_a": "Embauchez moi",
 
@@ -44,6 +44,10 @@
   "parcours_item-5":"Agence de communication FreelanceWeb16",
   "parcours_timestamp-5": "Février 2021",
   "parcours_timestamp-5-2": "Stage 2 semaines",
+  "parcours_item-6":"Solocal",
+  "parcours_timestamp-6": "Septembre 2022",
+  "parcours_timestamp-2-2": "Chargé de projet web / Webmaster",
+  
 
   "portfolio_h2": "Portfolio",
   "portfolio_h2-2": "Mes réalisations",
